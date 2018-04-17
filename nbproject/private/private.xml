@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/OpenServer/domains/mvc/application/views/footer.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/views/header.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/index.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/views/create_task.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/controllers/controller_task.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/config/db.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/core/model.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/core/db.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/views/_form_task.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/core/route.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/views/update_task.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/views/head.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/views/view_task.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/.htaccess</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/views/404_view.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/models/model_task.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/core/view.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/core/controller.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/controllers/controller_404.php</file>
+            <file>file:/F:/OpenServer/domains/mvc/application/bootstrap.php</file>
+        </group>
+    </open-files>
+</project-private>
