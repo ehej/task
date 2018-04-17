@@ -3,7 +3,7 @@
 class View
 {
 
-    public function __construct($params)
+    public function __construct($params = null)
     {
         if (!empty($params)) {
             foreach ($params as $key => $param) {

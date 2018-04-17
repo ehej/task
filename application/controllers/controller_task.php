@@ -12,12 +12,9 @@ class Controller_Task extends Controller
         ]);
     }
 
-    public function action_index()
-    {
-        Route::start('contacts');
-    }
+    
 
-    public function action_task_list()
+    public function action_index()
     {
         $model = new Model_Task();
         $page = empty($_GET['page']) ? 1 : $_GET['page'];

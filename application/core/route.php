@@ -13,7 +13,7 @@ class Route
 
         // контроллер и действие по умолчанию
         $controller_name = 'Task';
-        $action_name = 'task_list';
+        $action_name = 'index';
 
         if (empty($route)) {
             $url = $_SERVER['REQUEST_URI'];
